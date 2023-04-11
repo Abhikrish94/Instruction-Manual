@@ -1,0 +1,2 @@
+# Instruction-Manual
+A Step-by-Step Guide to Setting Up Google Pay in Android Mobile
