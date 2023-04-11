@@ -1,4 +1,6 @@
 # Instruction-Manual
+![gpay](https://user-images.githubusercontent.com/130212422/231099538-ae1acc06-b92c-4350-8d24-a707eaa01cdd.png)
+
 ## A Step-by-Step Guide to Setting Up Google Pay in Android Mobile
 1. Download the Google Pay app from Play Store.
 2. Enter your phone number.
