@@ -14,3 +14,11 @@
       - Use a 4-digit Google PIN to generate a PIN.
 
 6. Add a bank account by following the below instructions:
+   - Open Google Pay.
+   - Tap your photo on the top right corner.
+   - Tap on Bank account.
+   - Tap on Add bank account.
+   - Choose from the list of banks.
+   - Select the account you want to add from the list of accounts.
+   - To verify your account, add your debit card details.
+
